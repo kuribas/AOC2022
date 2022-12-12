@@ -1,0 +1,7 @@
+  /git/AOC2022/day3:
+  totaal 24
+  drwxrwxr-x 4 kristof kristof 4096 dec 12 15:08 .
+  drwxrwxr-x 6 kristof kristof 4096 dec 12 15:09 ..
+  -rw-rw-r-- 1 kristof kristof  753 dec 10 20:14 part1.py
+  -rw-rw-r-- 1 kristof kristof 1306 dec 12 15:08 part2.py
+  drwxrwxr-x 2 kristof kristof 4096 dec 12 15:01 __pycache__

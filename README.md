@@ -7,3 +7,6 @@ fun :-)
 | Day | Language |
 |:----|:---------|
 | 1   | idris2   |
+| 2   | idris2   |
+| 3   | Python3  |
+|     |          |
